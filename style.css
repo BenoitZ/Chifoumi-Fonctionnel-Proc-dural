@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    text-align: center;
+    font-size: 3em;
+    margin: 2%;
+}
+
+.user
+{
+    display: flex;
+    justify-content: center;
+}
+
+#blocOrdi 
+{
+    display: flex;
+    justify-content: center;
+}
+
+#commentaire{
+    width: 80%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
